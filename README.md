@@ -8,14 +8,15 @@ This project is part of our **Final Year Engineering Curriculum** and aims to br
 
 ## 👥 Team Members
 
-- **DHARMA DEVI K** – Final Year Student, B.Tech - Information Technology  
-  Arulmigu Meenakshi Amman College of Engineering  
-  GitHub: [@DHARMA DEVI K](https://github.com/DHARMADEVIKEERTHI)
-
 - **PERUMAL K** – Final Year Student, B.Tech - Information Technology  
   Arulmigu Meenakshi Amman College of Engineering  
   GitHub: [@PERUMAL K](https://github.com/k-perumal)
   
+- **DHARMA DEVI K** – Final Year Student, B.Tech - Information Technology  
+  Arulmigu Meenakshi Amman College of Engineering  
+  GitHub: [@DHARMA DEVI K](https://github.com/DHARMADEVIKEERTHI)
+
+
 ---
 
 ## 📂 Dataset Access
